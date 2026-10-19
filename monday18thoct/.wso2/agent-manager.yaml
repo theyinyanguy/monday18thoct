@@ -1,0 +1,12 @@
+mcpServers:
+  - proxy: contractkb
+    env:
+      url: CONTRACTKB_MCP_URL
+  - proxy: send-email-mock
+    env:
+      url: SEND_EMAIL_MOCK_MCP_URL
+llmProviders:
+  - provider: danprovider
+    env:
+      url: DANPROVIDER_URL
+      apikey: DANPROVIDER_API_KEY
