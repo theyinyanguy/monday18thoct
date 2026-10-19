@@ -10,3 +10,6 @@ llmProviders:
     env:
       url: DANPROVIDER_URL
       apikey: DANPROVIDER_API_KEY
+org: default
+project: monday18thoct
+agent: monday18thoct
